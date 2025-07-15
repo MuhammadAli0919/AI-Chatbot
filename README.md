@@ -1,4 +1,4 @@
-# 🕰️ Time Travel Bot
+# 🕰️ chatbot
 
 Time Travel Bot is a conversational AI chatbot that lets you talk to any famous personality — past or present — as if you're speaking to them in real life.
 
